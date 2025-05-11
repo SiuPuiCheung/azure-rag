@@ -3,7 +3,7 @@
 A Retrieval Augmented Generation example with Azure, using Azure OpenAI Service, Azure Cognitive Search, embeddings, and a sample CSV file to produce
 a powerful grounding to applications that want to deliver customized generative AI applications.
 
-## Install the prerequisites
+## Install the prerequisites  
 
 Use the `requirements.txt` to install all dependencies
 
